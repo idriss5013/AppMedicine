@@ -48,8 +48,8 @@ button:focus,
 }
 
 .form-check-input:checked {
-  background-color: #ff6b81;
-  border-color: #ff6b81;
+  background-color: #20539e;
+  border-color: #20539e;
 }
 
 select {
@@ -1367,7 +1367,7 @@ ol {
   width: 100px;
   height: 100px;
   border-radius: 100%;
-  background: #ff6b81;
+  background: #20539e;
   -webkit-animation: preloader-fx 1.6s linear infinite;
   animation: preloader-fx 1.6s linear infinite;
 }
@@ -1439,16 +1439,16 @@ ol {
     border-radius: 6px;
   }
   .header .navbar .navbar-nav .nav-item a:hover {
-    color: #ff6b81 !important;
+    color: #20539e !important;
   }
   .header .navbar .navbar-nav .nav-item a.active {
-    color: #ff6b81 !important;
+    color: #20539e !important;
   }
   .header .navbar-nav .nav-item {
     margin: 0;
   }
   .header .navbar-nav .nav-item:hover a {
-    color: #ff6b81;
+    color: #20539e;
   }
   .header .navbar-nav .nav-item a {
     padding: 12px 16px !important;
